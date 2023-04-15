@@ -24,5 +24,3 @@ Comandos
 .. code:: bash
 
     robot -d ./Results amazon_testes_gherkin_bdd.robot 
-    
-    robot -d ./Results amazon_testes.robot
