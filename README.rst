@@ -9,9 +9,14 @@ amazon-website-robotframework
 Installation
 ------------
 
-The recommended installation method is using pip_::
+Install robotframework 
+    
+    pip install robotframework
+
+Install library
 
     pip install --upgrade robotframework-seleniumlibrary
+   
 
 Comandos 
 ------------
