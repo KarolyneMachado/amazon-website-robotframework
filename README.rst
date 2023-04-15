@@ -22,8 +22,5 @@ Comandos
 ------------
 .. code:: bash
 
-#Execução BDD 
-- robot -d ./Results amazon_testes_gherkin_bdd.robot 
-
-Execução Testes procedurais
-- robot -d ./Results amazon_testes.robot
+    robot -d ./Results amazon_testes_gherkin_bdd.robot 
+    robot -d ./Results amazon_testes.robot
