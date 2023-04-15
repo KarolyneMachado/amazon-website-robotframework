@@ -2,7 +2,7 @@ amazon-website-robotframework
 ===============
 
 
-# Amazon.com.br
+#Amazon.com.br
 - CT Acesso ao menu "Eletrônicos"
 - CT Pesquisa de um Produto
 
@@ -20,8 +20,9 @@ Install library  pip_::
 
 Comandos 
 ------------
+.. code:: bash
 
-Execução BDD 
+#Execução BDD 
 - robot -d ./Results amazon_testes_gherkin_bdd.robot 
 
 Execução Testes procedurais
