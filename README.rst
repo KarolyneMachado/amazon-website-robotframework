@@ -1,10 +1,10 @@
 amazon-website-robotframework
 ===============
 
-
-#Amazon.com.br
-- CT Acesso ao menu "Eletrônicos"
-- CT Pesquisa de um Produto
+Introdução
+------------
+Projeto de automação de website da amazon utilizando SeleniumLibrary no  `Robot Framework`_ , 
+web site: amazon.com.br
 
 Installation
 ------------
