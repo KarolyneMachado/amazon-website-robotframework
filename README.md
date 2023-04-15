@@ -18,8 +18,14 @@ Install library  pip_::
 
     pip install --upgrade robotframework-seleniumlibrary
    
+   
 
 Comandos 
 ------------
+Execução file de test bdd e salvando na pasta result
 
     robot -d ./Results amazon_testes_gherkin_bdd.robot 
+    
+Execução file de test e salvando na pasta result
+
+    robot -d ./Results amazon_testes.robot
