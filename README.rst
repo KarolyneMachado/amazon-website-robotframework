@@ -9,11 +9,11 @@ amazon-website-robotframework
 Installation
 ------------
 
-Install robotframework 
+Install robotframework  pip_::
     
     pip install robotframework
 
-Install library
+Install library  pip_::
 
     pip install --upgrade robotframework-seleniumlibrary
    
