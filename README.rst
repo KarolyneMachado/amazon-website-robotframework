@@ -3,7 +3,7 @@ amazon-website-robotframework
 
 Introdução
 ------------
-Projeto de automação de website da amazon utilizando SeleniumLibrary no  `Robot Framework`_ , 
+Projeto de automação de website da amazon utilizando SeleniumLibrary no `Robot Framework`_  , 
 web site: amazon.com.br
 
 Installation
