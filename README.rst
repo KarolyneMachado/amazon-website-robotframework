@@ -1,7 +1,7 @@
 amazon-website-robotframework
 ===============
 
-![image](https://user-images.githubusercontent.com/86740236/232250840-be190ae0-c701-4296-8d7f-3c8dd3648a95.png)
+![image](https://user-images.githubusercontent.com/86740236/179148135-13a79a45-d6d0-44eb-9c29-02cd8a430148.png)
 
 Introdução
 ------------
