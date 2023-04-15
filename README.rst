@@ -6,10 +6,15 @@ amazon-website-robotframework
 - CT Acesso ao menu "Eletrônicos"
 - CT Pesquisa de um Produto
 
-# Instalações 
-- SeleniumLibrary
+Installation
+------------
 
-# Comandos 
+The recommended installation method is using pip_::
+
+    pip install --upgrade robotframework-seleniumlibrary
+
+Comandos 
+------------
 
 Execução BDD 
 - robot -d ./Results amazon_testes_gherkin_bdd.robot 
